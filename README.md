@@ -51,6 +51,8 @@ The breakdown for each county was:
 
 ![Election_Results](https://user-images.githubusercontent.com/92554586/142772417-966fc438-16f4-47b8-ac46-00b16258397a.png)
 
+![Election_Results_Code](https://user-images.githubusercontent.com/92554586/142774747-a346ece0-6d01-4856-923c-c2be20517f13.png)
+
 ## Challenge Summary
 This script can be used for any local United States election, with the only changes being the input data and output .txt file. It will filter through every unique candidate and county and write the outcome to an easily readable file.
 
